@@ -1,0 +1,267 @@
+{
+    "id": "polygon",
+    "description": "Polygon is a protocol and a framework for building and connecting Ethereum-compatible blockchain networks. It aims to provide faster and cheaper transactions on Ethereum using Layer 2 sidechains, thereby enhancing scalability.",
+    "tags": [
+        "layer 2",
+        "ethereum compatible",
+        "scaling solutions",
+        "sidechains"
+    ],
+    "coin_details": {
+        "name": "Polygon",
+        "symbol": "MATIC",
+        "logo": "logo/polygon.png",
+        "max_supply": "10,000,000,000"
+    },
+    "chain_details": [
+        {
+            "name": "Language",
+            "type": "Solidity"
+        },
+        {
+            "name": "Consensus",
+            "type": "Proof of Stake"
+        },
+        {
+            "name": "Chain Layer",
+            "type": "L2"
+        },
+        {
+            "name": "Chain Type",
+            "type": "Ethereum Compatible"
+        }
+    ],
+    "official_links": {
+        "website": "https://polygon.technology/",
+        "whitepaper": "https://polygon.technology/whitepaper.pdf",
+        "documentation": "https://docs.matic.network/",
+        "forum": "https://forum.matic.network/",
+        "github": "https://github.com/maticnetwork"
+    },
+    "social_platforms": {
+        "discord": "https://discord.gg/6y5chp4",
+        "twitter": "https://twitter.com/0xPolygon",
+        "reddit": "https://www.reddit.com/r/maticnetwork/",
+        "community": "https://community.matic.network/",
+        "coinmarketcap_community": "https://coinmarketcap.com/currencies/polygon/",
+        "twitter_hashtag": "https://twitter.com/hashtag/MATIC"
+    },
+    "data_aggregator": [
+        {
+            "name": "CoinMarketCap",
+            "url": "https://coinmarketcap.com/currencies/polygon/"
+        },
+        {
+            "name": "CoinGecko",
+            "url": "https://www.coingecko.com/en/coins/polygon"
+        },
+        {
+            "name": "DefiLlama",
+            "url": "https://defillama.com/chain/Polygon"
+        },
+        {
+            "name": "DappRadar",
+            "url": "https://dappradar.com/chain/polygon"
+        },
+        {
+            "name": "CryptoCompare",
+            "url": "https://www.cryptocompare.com/coins/matic/overview"
+        },
+        {
+            "name": "TradingView",
+            "url": "https://www.tradingview.com/symbols/MATICUSD/"
+        },
+        {
+            "name": "CoinDesk",
+            "url": "https://www.coindesk.com/price/polygon/"
+        },
+        {
+            "name": "Investing",
+            "url": "https://www.investing.com/crypto/matic/matic-usd"
+        },
+        {
+            "name": "MarketWatch",
+            "url": "https://www.marketwatch.com/investing/cryptocurrency/maticusd"
+        },
+        {
+            "name": "Yahoo Finance",
+            "url": "https://finance.yahoo.com/quote/MATIC-USD"
+        }
+    ],
+    "explorers": [
+        {
+            "name": "PolygonScan",
+            "url": "https://polygonscan.com/"
+        },
+        {
+            "name": "Polygonscan Graph",
+            "url": "https://thegraph.com/explorer/subgraph/maticnetwork/polygon"
+        },
+        {
+            "name": "Polygon Explorer",
+            "url": "https://explorer-mainnet.maticvigil.com/"
+        },
+        {
+            "name": "Polygon Explorer (Mumbai Testnet)",
+            "url": "https://mumbai-explorer.matic.today/"
+        },
+        {
+            "name": "Polygonscan API",
+            "url": "https://polygonscan.com/apis"
+        },
+        {
+            "name": "MaticVigil",
+            "url": "https://maticvigil.com/"
+        },
+        {
+            "name": "Matic Explorer (Matic Mumbai Testnet)",
+            "url": "https://explorer-mumbai.maticvigil.com/"
+        },
+        {
+            "name": "QuickNode",
+            "url": "https://www.quicknode.com/"
+        },
+        {
+            "name": "Dune Analytics",
+            "url": "https://explore.duneanalytics.com/public/dashboards/VuN3k5CB3HP5vcU8NXdKDno2Bv6qvH2h1H6XyS2D"
+        },
+        {
+            "name": "Nansen",
+            "url": "https://pro.nansen.ai/matic/overview"
+        }
+    ],
+    "bridges": [
+        {
+            "name": "Matic Bridge",
+            "url": "https://wallet.matic.network/bridge/"
+        },
+        {
+            "name": "Matic Wallet",
+            "url": "https://wallet.matic.network/"
+        },
+        {
+            "name": "Polygon Bridge",
+            "url": "https://wallet.polygon.technology/"
+        },
+        {
+            "name": "TokenBridge",
+            "url": "https://docs.matic.network/docs/develop/network-details/introduction"
+        },
+        {
+            "name": "Anyswap Bridge",
+            "url": "https://anyswap.exchange/"
+        },
+        {
+            "name": "ChainBridge",
+            "url": "https://chainbridge.network/"
+        }
+    ],
+    "bounty": [
+        {
+            "name": "Bug Bounty Program",
+            "url": "https://bounty.matic.network/"
+        }
+    ],
+    "grants": [
+        {
+            "name": "Matic Grants",
+            "url": "https://matic.network/grants"
+        }
+    ],
+    "faucets": [
+        {
+            "name": "Polygon Faucet",
+            "url": "https://faucet.matic.network/"
+        },
+        {
+            "name": "Polygon Mumbai Testnet Faucet",
+            "url": "https://faucet.maticvigil.com/"
+        },
+        {
+            "name": "PolyFaucet",
+            "url": "https://polyfaucet.com/"
+        }
+    ],
+    "rpcs": [
+        {
+            "name": "Matic Mainnet RPC",
+            "url": "https://rpc-mainnet.matic.network"
+        },
+        {
+            "name": "Matic Mumbai Testnet RPC",
+            "url": "https://rpc-mumbai.matic.today"
+        },
+        {
+            "name": "Alchemy",
+            "url": "https://www.alchemyapi.io/"
+        },
+        {
+            "name": "Infura",
+            "url": "https://infura.io/"
+        },
+        {
+            "name": "QuikNode",
+            "url": "https://www.quicknode.com/"
+        }
+    ],
+    "wallets": [
+        {
+            "name": "Metamask",
+            "url": "https://metamask.io/"
+        },
+        {
+            "name": "WalletConnect",
+            "url": "https://walletconnect.org/"
+        },
+        {
+            "name": "Trust Wallet",
+            "url": "https://trustwallet.com/"
+        },
+        {
+            "name": "Portis",
+            "url": "https://www.portis.io/"
+        },
+        {
+            "name": "Fortmatic",
+            "url": "https://fortmatic.com/"
+        },
+        {
+            "name": "Torus",
+            "url": "https://tor.us/"
+        }
+    ],
+    "oracles": [
+        {
+            "name": "Chainlink",
+            "url": "https://chain.link/"
+        },
+        {
+            "name": "Band Protocol",
+            "url": "https://bandprotocol.com/"
+        },
+        {
+            "name": "Tellor",
+            "url": "https://tellor.io/"
+        },
+        {
+            "name": "API3",
+            "url": "https://api3.org/"
+        },
+        {
+            "name": "Razor Network",
+            "url": "https://razor.network/"
+        },
+        {
+            "name": "DIA",
+            "url": "https://diadata.org/"
+        },
+        {
+            "name": "Provable",
+            "url": "https://provable.xyz/"
+        },
+        {
+            "name": "Chronicle",
+            "url": "https://chroniclelabs.org/"
+        }
+    ]
+}
